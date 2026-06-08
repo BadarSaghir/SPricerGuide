@@ -18,11 +18,7 @@ nsis:
   shortcutName: ${productName}
   uninstallDisplayName: ${productName}
   createDesktopShortcut: always
-  installerIcon: build/icon.ico
-  uninstallerIcon: build/icon.ico
-  installerHeaderIcon: build/icon.ico   # optional, top‑left corner of installer window
-  oneClick: false
-  allowToChangeInstallationDirectory: true
+  
 mac:
   entitlementsInherit: build/entitlements.mac.plist
   extendInfo:
