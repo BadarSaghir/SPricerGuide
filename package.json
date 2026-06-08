@@ -1,10 +1,9 @@
 {
   "name": "evaluator",
   "version": "1.0.0",
-  "description": "An Electron application with Vue and TypeScript",
+  "description": "Application design to provide basic info about system",
   "main": "./out/main/index.js",
-  "author": "example.com",
-  "homepage": "https://electron-vite.org",
+  "author": "Sardar badar Saghir",
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint --cache .",
